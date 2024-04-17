@@ -14,22 +14,22 @@ I may (or may not) extend this collection in the future.
 
 Generic 7-seg clock with switchable color/pattern platte. Use <kbd>Space</kbd> key top iterate through them. Press <kbd>T</kbd> key to switch between 24hr/12hr. Uses dual-pass gaussian blur filter for the glow effect.
 
-./videos/digital.mp4
+https://github.com/Abrar11050/wgpu-clocks/assets/11440342/23dbb606-64e7-49e8-b6cf-d7211f2a6da1
 
 ## [2D] Polar Clock
 
 Angle based time representation using rings/arcs and disks/circles. Smoothstep based anti-aliasing. Press <kbd>Space</kbd> key to go though the color palette.
 
-./videos/polar.mp4
+https://github.com/Abrar11050/wgpu-clocks/assets/11440342/2ae97275-555b-45a9-b099-a85f9b9a62ee
 
 ## [3D] Mechanical Counter Clock
 
 Digits placed on rotatable wheels. Makes use of instanced geometry. Font(s) used (bitmap sprite): **Haettenschweiler**.
 
-./videos/counter.mp4
+https://github.com/Abrar11050/wgpu-clocks/assets/11440342/1e3df1c8-6c97-41e5-aae9-cdd26999b4a5
 
 ## [3D] Portal Clock
 
 Multi-scene portal rendering (Two pass, screen-space UV mapping). 3D meshes loaded from disk. Day side shows hours and night side shows minutes. Use mouse to operate camera, controls are similar to that of [Blender](https://www.blender.org/) (hold down middle button and move to pan, scroll to zoom), left-click to toggle auto-rotation. Font(s) used (bitmap sprite): **Beurmon**, 3D meshes and textures made using [Blender](https://www.blender.org/).
 
-./videos/portal.mp4
+https://github.com/Abrar11050/wgpu-clocks/assets/11440342/d19195db-2634-4103-92d2-9925358cba4d
